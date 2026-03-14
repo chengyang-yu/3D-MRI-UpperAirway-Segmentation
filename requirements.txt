@@ -1,0 +1,4 @@
+torch>=2.4.0
+nnunetv2
+SimpleITK
+numpy
