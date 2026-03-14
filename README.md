@@ -9,7 +9,7 @@ The model is built upon the nnU-Net framework and has been trained for accurate 
 First, clone this repository to your local machine and navigate into the directory:
 
 ```bash
-git clone https://github.com/bobo20000819/3D-MRI-UpperAirway-Segmentation
+git clone https://github.com/chengyang-yu/3D-MRI-UpperAirway-Segmentation
 cd 3D-MRI-UpperAirway-Segmentation
 ```
 
